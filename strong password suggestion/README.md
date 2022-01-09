@@ -1,0 +1,1 @@
+The program will create a strong password and print it out. the strong password will have at least one uppercase character, one lowercase character, one digit, and one symbol, and the password will have a length in between 8 and 20 characters.
